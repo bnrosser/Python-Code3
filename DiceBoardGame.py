@@ -1,7 +1,7 @@
 #
 # Brandi Rosser
 # May 23, 2023
-# Lab 02 Part 2
+# 
 #
 
 # This will be filled in with what we output
